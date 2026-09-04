@@ -1,0 +1,183 @@
+================================================================================
+SPARSH PLATFORM — DEMO USER CREDENTIALS REFERENCE DIRECTORY
+================================================================================
+Default Universal Password for all demo accounts: Sparsh@2026
+Domain Rules:
+  - Government Officers : @sparsh-gov.in
+  - Startups & Others   : @sparsh.in
+================================================================================
+
+--------------------------------------------------------------------------------
+1. GOVERNMENT DEPARTMENT OFFICERS (Role: department_officer)
+--------------------------------------------------------------------------------
+[1] Department of Public Health & Family Welfare
+    Email: health.dept@sparsh-gov.in
+    Officer: Dr. Rajesh Kulkarni (Joint Secretary)
+    Active Charter: Rural Tele-Diagnostics & AI Triage for Primary Health Centres
+
+[2] Department of Transport & Road Safety
+    Email: transport.dept@sparsh-gov.in
+    Officer: Anand Bhosale (Transport Commissioner)
+    Active Charter: Pune Urban Junction Adaptive Traffic Signal Control
+
+[3] Department of Agriculture & Farmer Welfare
+    Email: agriculture.dept@sparsh-gov.in
+    Officer: Suresh Patil (Director of Agriculture)
+    Active Charter: Hyperspectral Satellite Yield Prediction for Vidarbha Cotton
+
+[4] Water Resources & Irrigation Department
+    Email: water.dept@sparsh-gov.in
+    Officer: Madhav Shinde (Chief Engineer)
+    Active Charter: Canal Seepage Detection & Automated Sluice Gate Control
+
+[5] Urban Development Department (UDD)
+    Email: urban.dept@sparsh-gov.in
+    Officer: Smita Deshmukh (Secretary UDD)
+    Active Charter: Construction Site Dust & Air Quality Compliance Monitoring
+
+[6] Environment & Climate Change Department
+    Email: environment.dept@sparsh-gov.in
+    Officer: Vijay Pawar (Environment Officer)
+    Active Charter: Real-Time Industrial Effluent Tracking in Thane Chemical Belt
+
+[7] School Education & Literacy Department
+    Email: education.dept@sparsh-gov.in
+    Officer: Sunita Jadhav (Director Education)
+    Active Charter: Offline-Capable Vernacular AI Reading Tutor for Zilla Parishad
+
+[8] Department of Skill Development & Entrepreneurship
+    Email: skills.dept@sparsh-gov.in
+    Officer: Prakash More (Director Skill Dev)
+    Active Charter: Micro-Credentialing & Industry Skill Match Engine for ITIs
+
+[9] Home Department (Maharashtra Police Cyber)
+    Email: police.dept@sparsh-gov.in
+    Officer: DCP Rakesh Kadam (Cyber Cell)
+    Active Charter: Deepfake Detection & Synthetic Media Forensics Console
+
+[10] Public Works Department (PWD)
+     Email: pwd.dept@sparsh-gov.in
+     Officer: Sanjay Wagh (Executive Engineer)
+     Active Charter: Computer-Vision Pothole & Bridge Structural Inspection
+
+[11] Tribal Development Department
+     Email: tribal.dept@sparsh-gov.in
+     Officer: Archana Gaikwad (Project Director)
+     Active Charter: Solar-Powered IoT Cold Chain Tracking for Forest Produce
+
+[12] Department of Fisheries & Animal Husbandry
+     Email: fisheries.dept@sparsh-gov.in
+     Officer: Milind Salvi (Assistant Commissioner)
+     Active Charter: Marine Vessel Telematics & Storm Alert for Konkan Fishermen
+
+[13] Department of Tourism & Cultural Affairs
+     Email: tourism.dept@sparsh-gov.in
+     Officer: Rohan Sawant (General Manager)
+     Active Charter: AR Heritage Trail & Crowd Density Management at Ajanta
+
+[14] Food & Civil Supplies Department
+     Email: supplies.dept@sparsh-gov.in
+     Officer: Nitin Kamble (Controller Rationing)
+     Active Charter: Smart Fair Price Shop Biometric Grain Dispensing Audit
+
+--------------------------------------------------------------------------------
+2. STARTUP FOUNDERS (Role: startup_founder)
+--------------------------------------------------------------------------------
+[1] Cognitive Signals India Pvt Ltd
+    Email: founder@cognitive.sparsh.in | DPIIT: DPIIT-2024-10492 | Sector: Traffic AI
+
+[2] HealthPulse Technologies
+    Email: founder@healthpulse.sparsh.in | DPIIT: DPIIT-2024-88391 | Sector: HealthTech
+
+[3] AgriSense Remote Sensing Labs
+    Email: founder@agrisense.sparsh.in | DPIIT: DPIIT-2023-44120 | Sector: AgriTech
+
+[4] HydroFlow IoT Solutions
+    Email: founder@hydroflow.sparsh.in | DPIIT: DPIIT-2024-66291 | Sector: Water Systems
+
+[5] EcoPure Environmental Systems
+    Email: founder@ecopure.sparsh.in | DPIIT: DPIIT-2023-11928 | Sector: CleanTech
+
+[6] EdVanya Vernacular Learning
+    Email: founder@edvanya.sparsh.in | DPIIT: DPIIT-2024-99201 | Sector: EdTech
+
+[7] SkillBridge AI Corp
+    Email: founder@skillbridge.sparsh.in | DPIIT: DPIIT-2023-55102 | Sector: HR/Skills
+
+[8] CyberShield Media Forensics
+    Email: founder@cybershield.sparsh.in | DPIIT: DPIIT-2024-33104 | Sector: CyberSecurity
+
+[9] InfraVision Automated Systems
+    Email: founder@infravision.sparsh.in | DPIIT: DPIIT-2023-77189 | Sector: Infrastructure
+
+[10] SunHarvest IoT Logistics
+     Email: founder@sunharvest.sparsh.in | DPIIT: DPIIT-2024-12904 | Sector: Cold Chain
+
+[11] AquaTrack Konkan Marine
+     Email: founder@aquatrack.sparsh.in | DPIIT: DPIIT-2024-44910 | Sector: Marine Tech
+
+[12] HeritageVerse Interactive AR
+     Email: founder@heritageverse.sparsh.in | DPIIT: DPIIT-2023-88192 | Sector: Tourism Tech
+
+[13] RationTrust BioAudit
+     Email: founder@rationtrust.sparsh.in | DPIIT: DPIIT-2024-66102 | Sector: GovTech
+
+[14] AeroDrone GIS Surveys
+     Email: founder@aerodrone.sparsh.in | DPIIT: DPIIT-2024-22104 | Sector: Drones/GIS
+
+[15] MediChain Temperature Logix
+     Email: founder@medichain.sparsh.in | DPIIT: DPIIT-2023-99301 | Sector: Pharma Supply
+
+[16] CleanSurge Waste AI
+     Email: founder@cleansurge.sparsh.in | DPIIT: DPIIT-2024-77402 | Sector: Waste Mgmt
+
+[17] BioVolt Green Biomass
+     Email: founder@biovolt.sparsh.in | DPIIT: DPIIT-2023-33410 | Sector: Renewable Energy
+
+[18] VaniAI Multi-Dialect Voice
+     Email: founder@vaniai.sparsh.in | DPIIT: DPIIT-2024-88203 | Sector: Voice AI
+
+[19] GeoRisk Flood Prediction
+     Email: founder@georisk.sparsh.in | DPIIT: DPIIT-2023-11204 | Sector: Disaster Tech
+
+[20] SafeGrid Power Analytics
+     Email: founder@safegrid.sparsh.in | DPIIT: DPIIT-2024-55912 | Sector: Energy Grid
+
+[21] FireGuard Thermal AI
+     Email: founder@fireguard.sparsh.in | DPIIT: DPIIT-2024-44201 | Sector: Forestry AI
+
+[22] OceanBounty Fishery Analytics
+     Email: founder@oceanbounty.sparsh.in | DPIIT: DPIIT-2023-99105 | Sector: Aquaculture
+
+--------------------------------------------------------------------------------
+3. MSInS STATE ADMINS (Role: msins_admin)
+--------------------------------------------------------------------------------
+[1] Chief State Innovation Officer
+    Email: admin.chief@sparsh.in
+    Name: Dr. Ashish Deshmukh
+
+[2] State Operations Manager
+    Email: admin.ops@sparsh.in
+    Name: Priya Kulkarni
+
+--------------------------------------------------------------------------------
+4. JURY EVALUATORS (Role: evaluator)
+--------------------------------------------------------------------------------
+[1] Prof. Ramesh Deshmukh (IIT Bombay)
+    Email: evaluator.deshmukh@sparsh.in
+
+[2] Dr. Sunita Sharma (VNJTI Mumbai)
+    Email: evaluator.sharma@sparsh.in
+
+[3] Vikram Kulkarni (Govt Tech Advisor)
+    Email: evaluator.kulkarni@sparsh.in
+
+--------------------------------------------------------------------------------
+5. INDEPENDENT VALIDATORS (Role: validator)
+--------------------------------------------------------------------------------
+[1] Dr. Anil Patil (COEP Tech University)
+    Email: validator.patil@sparsh.in
+
+[2] Meera Joshi (Quality Council of India)
+    Email: validator.joshi@sparsh.in
+================================================================================
