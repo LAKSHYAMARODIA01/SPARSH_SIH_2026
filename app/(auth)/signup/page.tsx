@@ -29,11 +29,19 @@ export default function SignupPage() {
     setLoading(true);
 
     try {
-      // 1. Supabase Auth Sign Up
+      const redirectOrigin =
+        typeof window !== "undefined"
+          ? window.location.origin
+          : process.env.NEXT_PUBLIC_SITE_URL || "https://sparsh-sih-2026.vercel.app";
+
+      const targetDashboard = ROLE_DASHBOARDS[role] || "/dashboard/startup";
+
+      // 1. Supabase Auth Sign Up with current host email confirmation redirect
       const { data, error } = await supabase.auth.signUp({
         email,
         password,
         options: {
+          emailRedirectTo: `${redirectOrigin}/auth/callback?next=${encodeURIComponent(targetDashboard)}`,
           data: {
             full_name: fullName,
             role,
